@@ -6,6 +6,7 @@
     <meta name="description" content="Portofolio Meylani Cahya Ilahi — Information Technology, Quality Assurance & Software Testing.">
     <title>Portofolio — Meylani Cahya Ilahi</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
+    @fonts()
 </head>
 <body class="antialiased">
 
